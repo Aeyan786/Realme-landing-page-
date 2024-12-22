@@ -1,0 +1,22 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #222222;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 30px;
+    padding: 20px;
+    font-size: 15px;
+    margin: 0px;
+    flex-wrap: wrap;
+}
+footer li{
+    list-style: none;
+    
+}
+footer span{
+    background-color:#222222; 
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
